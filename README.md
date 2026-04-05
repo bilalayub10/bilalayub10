@@ -8,9 +8,9 @@
 ## About Me
 
 - Data Analyst skilled in **Power BI, SQL, Python, and Excel**
-- Built end-to-end analytics projects focused on **dashboarding, KPI tracking, and business insights**
-- Experienced in **data cleaning, data analysis, workflow automation, and exploratory data analysis (EDA)**
-- Strong understanding of **data-driven decision making and reporting workflows**
+- Built end-to-end analytics projects across finance, operations, and hospitality domains
+- Proficient in data cleaning, workflow automation, and EDA - processed 1.4M+ records and cut manual reporting by up to 80%
+- Experienced in KPI tracking, dashboarding, and translating raw data into boardroom-ready insights
 - Continuously building projects to solve real-world business problems using data
   
 ---
